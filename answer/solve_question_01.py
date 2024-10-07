@@ -12,6 +12,8 @@ def primeChecker(number):
 
 number = int(input("Enter a number: "))
 if primeChecker(number):
+
     print("Prime")
+    
 else:
     print("Not Prime")
